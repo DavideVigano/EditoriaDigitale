@@ -80,8 +80,9 @@ Questo effetto influenza in maniera determinante la coordinazione di un mercato:
 - Decisioni sull’adozione di procedure di compatibilità (quali produttori si rendono compatibili con il prodotto di maggior successo?)
 - Ha un lato negativo (aumento dei costi, riduzione dell’innovazione) nel caso in cui i prodotti collegati siano dello stesso produttore (lock-in o monopolio)
 
+
+
 ## link utili 
 
-[Rivoluzione digitale]: https://courses.minnalearn.com/it/courses/digital-revolution/the-digital-revolution/	"corso finanziato Unione Europea"
-[Domanda e offerta]: https://www.treccani.it/enciclopedia/domanda-e-offerta_%28Enciclopedia-dei-ragazzi%29/#:~:text=Un%20mercato%20raggiunge%20l&#39;equilibrio,un%20particolare%20prezzo%20sono%20soddisfatte.	"enciclopedia treccani"
+[Rivoluzione digitale](https://courses.minnalearn.com/it/courses/digital-revolution/the-digital-revolution/)
 
